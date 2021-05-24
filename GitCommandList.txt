@@ -1,1 +1,5 @@
+git init				// init current path as git storage
 git add "filename"		// add filename to cache
+git status				// to check current working process
+git log					// check each log
+git reset --hard HEAD^	// rollback to (numbers of ^) version before
