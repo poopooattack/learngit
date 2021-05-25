@@ -7,3 +7,9 @@ git reflog					// check all log
 git checkout <filename> 	// withdraw unupload file
 git reset HEAD <filename>   // ?abort changes added to cache
 git rm <filename>			// remove filename in git
+
+git checkout -b <branchName>			// to clone to a new branch(branchName)
+
+
+git remote -v 				// 
+git push origin master		//
