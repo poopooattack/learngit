@@ -11,7 +11,15 @@ git rm <filename>			// remove filename in git
 git checkout -b <branchName>// to clone to a new branch(branchName)
 git branch					// to see all branch and point out current branch
 git checkout <branchName>	// change working directory as <branchName>
+git merge <branchName>		// merge <branchName> to current branch
+git branch -d <branchName>	// delete <branchName>
+git switch <branchName>		// switch
 
 git remote -v 				// 
 git push origin master		//
+<<<<<<< HEAD
 asaaaaaaaaaaaaaaaaaaaaaa
+=======
+
+asdasd
+>>>>>>> feature1
