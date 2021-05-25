@@ -8,8 +8,8 @@ git checkout <filename> 	// withdraw unupload file
 git reset HEAD <filename>   // ?abort changes added to cache
 git rm <filename>			// remove filename in git
 
-git checkout -b <branchName>			// to clone to a new branch(branchName)
-
+git checkout -b <branchName>// to clone to a new branch(branchName)
+git branch					// to see all branch and point out current branch
 
 git remote -v 				// 
 git push origin master		//
